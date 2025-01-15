@@ -1,7 +1,0 @@
-C:\Users\kylet\OneDrive\Documents\SAIT_C#\Morse_Code\Morse_Code\bin\Debug\Morse_Code.exe.config
-C:\Users\kylet\OneDrive\Documents\SAIT_C#\Morse_Code\Morse_Code\bin\Debug\Morse_Code.exe
-C:\Users\kylet\OneDrive\Documents\SAIT_C#\Morse_Code\Morse_Code\bin\Debug\Morse_Code.pdb
-C:\Users\kylet\OneDrive\Documents\SAIT_C#\Morse_Code\Morse_Code\obj\Debug\Morse_Code.csproj.AssemblyReference.cache
-C:\Users\kylet\OneDrive\Documents\SAIT_C#\Morse_Code\Morse_Code\obj\Debug\Morse_Code.csproj.CoreCompileInputs.cache
-C:\Users\kylet\OneDrive\Documents\SAIT_C#\Morse_Code\Morse_Code\obj\Debug\Morse_Code.exe
-C:\Users\kylet\OneDrive\Documents\SAIT_C#\Morse_Code\Morse_Code\obj\Debug\Morse_Code.pdb
